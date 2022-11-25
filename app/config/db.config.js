@@ -1,9 +1,9 @@
 // LOCALHOST
 module.exports = {
     HOST: "34.151.255.199",
-    USER: "leonardo",
-    PASSWORD: ";'dMa{_+=0Y`Xp|r",
-    DB: "bora_ajudar_db",
+    USER: "postgres",
+    PASSWORD: "postgres",
+    DB: "rede_solidaria",
     dialect: "postgres",
     pool: {
       max: 5,
@@ -18,7 +18,7 @@ module.exports = {
 //   HOST: "dpg-cda31hqrrk09hiotu3t0-a.oregon-postgres.render.com",
 //   USER: "senac",
 //   PASSWORD: "p1RKylLs1wUnm3RCIAeizpxfE5iDRUvY",
-//   DB: "bora_ajudar_db",
+//   DB: "rede__solidaria_db",
 //   dialect: "postgres",
 //   pool: {
 //     max: 5,
