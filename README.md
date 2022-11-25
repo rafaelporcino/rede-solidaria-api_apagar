@@ -1,2 +1,2 @@
-# Bora Ajudar API
-Bora Ajudar API
+# Rede Solidaria API
+Rede Solidaria API
