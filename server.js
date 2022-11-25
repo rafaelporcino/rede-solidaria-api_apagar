@@ -26,7 +26,7 @@ db.sequelize.sync();
 
 // rota simples
 app.get("/", (req, res) => {
-  res.json({ message: "Bora Ajudar está online." });
+  res.json({ message: "Rede Solidaria está online." });
 });
 
 require("./app/routes/doar.routes")(app);
