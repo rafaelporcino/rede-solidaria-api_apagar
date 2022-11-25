@@ -1,0 +1,35 @@
+{
+  "name": "bora-ajudar-api",
+  "version": "1.0.0",
+  "description": "api do projeto bora ajudar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azenha/node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "postgresql",
+    "rest",
+    "api"
+  ],
+  "author": "Diogo Opptiz, James Jean, Leonardo Azenha, Rafael Porcino, Susana Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azenha/node/issues"
+  },
+  "homepage": "https://github.com/Azenha/node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.25.3"
+  }
+}
