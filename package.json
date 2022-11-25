@@ -1,14 +1,14 @@
 {
   "name": "bora-ajudar-api",
   "version": "1.0.0",
-  "description": "api do projeto bora ajudar",
+  "description": "api do rede solidaria",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azenha/node.git"
+    "url": "git+https://github.com/rafaelporcino/node.git"
   },
   "keywords": [
     "nodejs",
@@ -18,12 +18,12 @@
     "rest",
     "api"
   ],
-  "author": "Diogo Opptiz, James Jean, Leonardo Azenha, Rafael Porcino, Susana Barros",
+  "author": "Rafael Porcino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Azenha/node/issues"
+    "url": "https://github.com/rafaelporcino/node/issues"
   },
-  "homepage": "https://github.com/Azenha/node#readme",
+  "homepage": "https://github.com/rafaelporcino/node#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
